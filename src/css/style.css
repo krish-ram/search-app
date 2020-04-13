@@ -1,0 +1,28 @@
+.search-icon {
+  background: url("images/search.svg") center no-repeat;
+  position: absolute;
+  display: inline-block;
+  height: 18px;
+  width: 18px;
+  margin: 5px;
+  z-index: 100;
+}
+
+li.card.selected {
+  background-color: #fff8dc;
+}
+li.card:focus {
+  background-color: red !important;
+}
+.dropdown-menu {
+  height: 50vh;
+  overflow: auto;
+}
+
+.border-top-btm {
+  border-top: 0.5px solid #d3d3d3;
+  border-bottom: 0.5px solid #d3d3d3;
+  margin: 5px 0px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
