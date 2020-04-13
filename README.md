@@ -2,7 +2,7 @@
 
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+  <!-- <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <style type="text/css" nonce="tWFnJgG2PWOuJLui4ORbDQ">
       body,
@@ -49,7 +49,7 @@
         position: relative;
       }
     </style>
-  </head>
+  </head> -->
   <body>
     <div class="bodycontainer">
       <hr />
